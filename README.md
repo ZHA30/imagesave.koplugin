@@ -22,3 +22,4 @@ Main menu path: `Main menu > More tools > Image save`
 
 - Viewport screenshot saving continues to use KOReader's built-in screenshot directory logic.
 - Save folder configuration remains available even if `Save original` is off.
+- Works normally on Kindle Paperwhite 11th gen (PW5).
