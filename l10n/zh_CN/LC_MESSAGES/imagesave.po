@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: imagesave\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Image save"
+msgstr "图片保存"
+
+msgid "Image save plugin."
+msgstr "图片保存插件。"
+
+msgid "Unable to create save folder:\n%1"
+msgstr "无法创建保存目录：\n%1"
+
+msgid "Screenshot saved to:"
+msgstr "截图已保存至："
+
+msgid "Unable to copy image file.\n%1"
+msgstr "无法复制图片文件。\n%1"
+
+msgid "Original image unavailable."
+msgstr "原始图片不可用。"
+
+msgid "Failed to save image.\n%1"
+msgstr "保存图片失败。\n%1"
+
+msgid "Save original"
+msgstr "保存原图"
+
+msgid "Long press \"Save\" in image viewer to save original image."
+msgstr "在图片视窗中长按“保存”可保存原图。"
+
+msgid "Save folder: %1"
+msgstr "保存路径：%1"
+
+msgid "Current image save folder:"
+msgstr "当前图片保存路径："
+
+msgid "Save"
+msgstr "保存"

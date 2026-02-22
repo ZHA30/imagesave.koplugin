@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: imagesave\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Image save"
+msgstr ""
+
+msgid "Image save plugin."
+msgstr ""
+
+msgid "Unable to create save folder:\n%1"
+msgstr ""
+
+msgid "Screenshot saved to:"
+msgstr ""
+
+msgid "Unable to copy image file.\n%1"
+msgstr ""
+
+msgid "Original image unavailable."
+msgstr ""
+
+msgid "Failed to save image.\n%1"
+msgstr ""
+
+msgid "Save original"
+msgstr ""
+
+msgid "Long press \"Save\" in image viewer to save original image."
+msgstr ""
+
+msgid "Save folder: %1"
+msgstr ""
+
+msgid "Current image save folder:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
